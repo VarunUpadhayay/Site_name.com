@@ -1,0 +1,291 @@
+   @media screen and (max-width:480px)
+   {
+   body{
+	 margin:0;
+	 background:hsl(240,30%,95%);
+	 background-image:url("1.jpg");
+	 background-repeat:no-repeat;
+	 background-position:610px 150px;
+      background-size:700px 450px;
+	  animation:slider 12s infinite linear;
+	  
+	 }
+	 @keyframes slider{
+	  0%{ background-image:url("1.jpg");background-position:610px 150px; }
+	  35%{ background-image:url("maxresdefault.jpg");background-position:610px 150px;}
+	   75%{ background-image:url("3.png");background-position:610px 150px;}
+	   100%{background-image:url("original.jpg"); background-position:610px 150px;}
+	  
+	 }
+	 #box1{
+	 
+	 width:100%;
+	 height:80px;
+	 background:black;
+	 margin: 0 0 20px 0;
+	 font-family:arial;
+	 font-size:x-large;
+	 }
+	 #box1 h1{
+	 padding:8px 0 0 0;
+	 color:white;
+	 font-family: 'Abril Fatface', cursive;
+	 }
+	 #box{
+	  border: 1px solid grey;
+	 border-radius:20px;
+	 width:500px;
+	 height:750px;
+	 margin:0 0 0 45px;
+	 }
+	 #name{
+	 margin-left:30px;
+	 margin-top:20px;
+	 width:200px;
+	 height:30px;
+	 border-radius:5px;
+	 padding-left:5px;
+	 
+	 
+	 
+	 }
+	 #name1{
+	 margin-left:30px;
+	 width:350px;
+	 height:35px;
+	 border-radius:5px;
+	 padding-left:6px;
+	 
+	 
+	 }
+	 .name2{
+	 margin-left:30px;
+	 font-family: 'Sriracha', cursive;
+	 
+	
+	 }
+	 .var{
+	  margin-left:30px;
+	  }
+	  .vt{
+	  font-family: 'PT Serif', serif;
+	  }
+	 #name5{
+	 margin-left:30px;
+	 margin-bottom:0px;
+	 border-radius:5px;
+	 font-family: 'Sriracha', cursive;
+	}
+	#message{
+	margin-left:30px;
+	 margin-bottom:0px;
+	 border-radius:5px;
+	}
+	 h2{
+	 
+	 text-align:center;
+	 font-family: 'Abril Fatface', cursive;
+	 
+	 }
+	 h3{
+	 margin-left:45px;
+	 margin-bottom:0;
+	 
+	 
+	 }
+	 p{
+	 font-family:comicsanms;
+	 width:200px;
+	 height:100px;
+	 
+	 
+	 margin-left:45px;
+	 }
+	 #log{
+	 float:right;
+	 padding:25px 25px 0 0; ;
+	 font-size:x-large;
+	font-family: 'Montserrat', sans-serif;
+
+	 }
+	 a{
+	 text-decoration-line:none;
+	 color:white;
+	 }
+	 textarea{
+	 resize:none;
+	 
+	 }
+	 #sub{
+	  margin-left:155px;
+	 margin-top:20px;
+	 width:150px;
+	 height:50px;
+	 border-radius:5px;
+	 text-align:center;
+	 }
+	 #come{
+	 float:right;
+	 margin-right:875px;
+	 margin-top:15px;
+	 }
+	 #box10
+	 {margin-top:15px;
+	 float:right;
+	 margin-right:825px;
+     paadding-left:10px;
+	 margin-bottom:0;
+	
+	 }
+	 #box9
+	 {float:right;
+	margin-right:825px;
+	 }
+	 
+	 
+	 
+}
+   body{
+	 margin:0;
+	 background:hsl(240,30%,95%);
+	 background-image:url("1.jpg");
+	 background-repeat:no-repeat;
+	 background-position:610px 150px;
+      background-size:700px 450px;
+	  animation:slider 12s infinite linear;
+	  
+	 }
+	 @keyframes slider{
+	  0%{ background-image:url("1.jpg");background-position:610px 150px; }
+	  35%{ background-image:url("maxresdefault.jpg");background-position:610px 150px;}
+	   75%{ background-image:url("3.png");background-position:610px 150px;}
+	   100%{background-image:url("original.jpg"); background-position:610px 150px;}
+	  
+	 }
+	 #box1{
+	 
+	 width:100%;
+	 height:80px;
+	 background:black;
+	 margin: 0 0 20px 0;
+	 font-family:arial;
+	 font-size:x-large;
+	 }
+	 #box1 h1{
+	 padding:8px 0 0 0;
+	 color:white;
+	 font-family: 'Abril Fatface', cursive;
+	 }
+	 #box{
+	  border: 1px solid grey;
+	 border-radius:20px;
+	 width:500px;
+	 height:750px;
+	 margin:0 0 0 45px;
+	 }
+	 #name{
+	 margin-left:30px;
+	 margin-top:20px;
+	 width:200px;
+	 height:30px;
+	 border-radius:5px;
+	 padding-left:5px;
+	 
+	 
+	 
+	 }
+	 #name1{
+	 margin-left:30px;
+	 width:350px;
+	 height:35px;
+	 border-radius:5px;
+	 padding-left:6px;
+	 
+	 
+	 }
+	 .name2{
+	 margin-left:30px;
+	 font-family: 'Sriracha', cursive;
+	 
+	
+	 }
+	 .var{
+	  margin-left:30px;
+	  }
+	  .vt{
+	  font-family: 'PT Serif', serif;
+	  }
+	 #name5{
+	 margin-left:30px;
+	 margin-bottom:0px;
+	 border-radius:5px;
+	 font-family: 'Sriracha', cursive;
+	}
+	#message{
+	margin-left:30px;
+	 margin-bottom:0px;
+	 border-radius:5px;
+	}
+	 h2{
+	 
+	 text-align:center;
+	 font-family: 'Abril Fatface', cursive;
+	 
+	 }
+	 h3{
+	 margin-left:45px;
+	 margin-bottom:0;
+	 
+	 
+	 }
+	 p{
+	 font-family:comicsanms;
+	 width:200px;
+	 height:100px;
+	 
+	 
+	 margin-left:45px;
+	 }
+	 #log{
+	 float:right;
+	 padding:25px 25px 0 0; ;
+	 font-size:x-large;
+	font-family: 'Montserrat', sans-serif;
+
+	 }
+	 a{
+	 text-decoration-line:none;
+	 color:white;
+	 }
+	 textarea{
+	 resize:none;
+	 
+	 }
+	 #sub{
+	  margin-left:155px;
+	 margin-top:20px;
+	 width:150px;
+	 height:50px;
+	 border-radius:5px;
+	 text-align:center;
+	 }
+	 #come{
+	 float:right;
+	 margin-right:875px;
+	 margin-top:15px;
+	 }
+	 #box10
+	 {margin-top:15px;
+	 float:right;
+	 margin-right:825px;
+     paadding-left:10px;
+	 margin-bottom:0;
+	
+	 }
+	 #box9
+	 {float:right;
+	margin-right:825px;
+	 }
+	 
+	 
+	 
